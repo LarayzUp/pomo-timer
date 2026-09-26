@@ -35,12 +35,6 @@ Depois é só responder as perguntas no terminal e focar. 🎯
 - Tratamento de erros com `try/except` para evitar que o programa quebre com entradas inválidas
 - Organização de código em funções separadas por responsabilidade
 
-## Próximos passos
-
-- [ ] Interface gráfica com Tkinter
-- [ ] Salvar histórico de ciclos completados
-- [ ] Notificação do sistema operacional em vez de apenas beep no terminal
-
 ---
 
 Feito por Lara Emylli — estudante de Ciência da Computação.
